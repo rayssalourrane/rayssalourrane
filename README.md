@@ -2,14 +2,6 @@
 
 I am a Software Engineer, currently working at [Zup Innovation](https://www.zup.com.br), focused on Angular and its entire ecosystem using the main technologies of the market.
 
-```j
-const importantLinks = {
-   📒 Linkedin: 'https://www.linkedin.com/in/rayssalourrane/'
-}
-```
-
-
-
 **Languages and Tools 🚀**
 
 <a href="https://angular.io/" title="Angular"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/angular-icon.svg" alt="Angular" width="21px" height="21px"></a>

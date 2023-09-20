@@ -1,6 +1,6 @@
 ## 👋 Hello world! I’m Rayssa Lourrane! Nice to meet you :)
 
-I am a Software Engineer, currently working at @zupinnovation focused on Angular and its entire ecosystem using the main technologies of the market.
+I am a Software Engineer, currently working at [Zup Innovation](https://www.zup.com.br/), focused on Angular and its entire ecosystem using the main technologies of the market.
 
 ```j
 const importantLinks = {
